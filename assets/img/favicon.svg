@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="fA"><path d="M59 0 L95 0 L142.9 115 L103.6 115 L76 46 L57.1 95 L84.2 95 L89.5 115 L49.4 115 L29.5 164 L7.5 164 L0 148 Z"/></clipPath>
+    <clipPath id="fM"><path d="M113.5 0 L138.5 0 L178.5 88 L226.5 0 L243.5 0 L256.5 25 L256.5 115 L227.5 115 L226.5 63 L195.5 115 L157.5 115 Z"/></clipPath>
+  </defs>
+  <rect width="64" height="64" rx="13" fill="#0B0D12"/>
+  <g transform="translate(6.5 12) scale(0.1946)">
+    <g clip-path="url(#fA)">
+      <rect x="-2" y="-2" width="261" height="168" fill="#C4212A"/>
+      <path d="M-2 170 L62 -2 L34 170 Z" fill="#DE5F57"/>
+      <path d="M62 -2 L98 -2 L78 44 Z" fill="#E1685F"/>
+      <path d="M95 -2 L112 60 L104 118 L86 40 Z" fill="#A7161D"/>
+      <path d="M-2 118 L54 118 L18 170 Z" fill="#7A0D14"/>
+      <path d="M46 94 L88 90 L92 118 L44 118 Z" fill="#AC1920"/>
+    </g>
+    <g clip-path="url(#fM)">
+      <rect x="110" y="-2" width="149" height="168" fill="#22397F"/>
+      <path d="M120 -2 L139 -2 L179 90 L157 90 Z" fill="#1691CE"/>
+      <path d="M179 88 L228 -2 L244 -2 L200 118 Z" fill="#254497"/>
+      <path d="M246 34 L259 20 L259 118 L242 118 Z" fill="#5077C8"/>
+    </g>
+  </g>
+</svg>

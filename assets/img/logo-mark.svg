@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 257 164" role="img" aria-label="AM Service">
+  <defs>
+    <clipPath id="amA"><path d="M59 0 L95 0 L142.9 115 L103.6 115 L76 46 L57.1 95 L84.2 95 L89.5 115 L49.4 115 L29.5 164 L7.5 164 L0 148 Z"/></clipPath>
+    <clipPath id="amM"><path d="M113.5 0 L138.5 0 L178.5 88 L226.5 0 L243.5 0 L256.5 25 L256.5 115 L227.5 115 L226.5 63 L195.5 115 L157.5 115 Z"/></clipPath>
+  </defs>
+  <g clip-path="url(#amA)">
+    <rect x="-2" y="-2" width="261" height="168" fill="#C4212A"/>
+    <path d="M-2 170 L62 -2 L34 170 Z" fill="#DE5F57"/>
+    <path d="M34 170 L62 -2 L78 44 L52 170 Z" fill="#C82830"/>
+    <path d="M62 -2 L98 -2 L78 44 Z" fill="#E1685F"/>
+    <path d="M95 -2 L112 60 L104 118 L86 40 Z" fill="#A7161D"/>
+    <path d="M95 -2 L146 118 L112 60 Z" fill="#BF2029"/>
+    <path d="M112 60 L146 118 L120 118 Z" fill="#D33840"/>
+    <path d="M-2 104 L54 118 L18 170 Z" fill="#8C1016"/>
+    <path d="M-2 128 L36 170 L-2 170 Z" fill="#68090F"/>
+    <path d="M46 94 L88 90 L92 118 L44 118 Z" fill="#AC1920"/>
+    <path d="M46 94 L88 90 L88 98 L48 100 Z" fill="#CE3038"/>
+  </g>
+  <g clip-path="url(#amM)">
+    <rect x="110" y="-2" width="149" height="168" fill="#22397F"/>
+    <path d="M120 -2 L139 -2 L179 90 L157 90 Z" fill="#1691CE"/>
+    <path d="M110 -2 L121 -2 L158 92 L149 118 Z" fill="#1B3574"/>
+    <path d="M179 88 L228 -2 L244 -2 L200 118 Z" fill="#254497"/>
+    <path d="M186 118 L228 20 L228 66 L198 118 Z" fill="#1C3272"/>
+    <path d="M244 -2 L259 27 L240 46 Z" fill="#7396DE"/>
+    <path d="M246 40 L259 24 L259 118 L242 118 Z" fill="#5077C8"/>
+    <path d="M228 24 L246 40 L242 118 L228 118 Z" fill="#20397E"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+{
+  "name": "AM Service — հեռախոսների վաճառք և վերանորոգում",
+  "short_name": "AM Service",
+  "description": "Հեռախոսների խանութ և սերվիս կենտրոն Նալբանդյան 50 հասցեում։",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08090C",
+  "theme_color": "#08090C",
+  "lang": "hy",
+  "icons": [
+    { "src": "assets/img/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

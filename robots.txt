@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# ⚠ Replace the host below with your real address after deploying.
+Sitemap: https://arman712.github.io/amservice/sitemap.xml
